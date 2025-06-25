@@ -29,15 +29,14 @@ height: 100vh;
     color: #777;
     margin-bottom: 20px;
 }
-.card button {
-background-color:#4CAF50;
-color: white;
-border: none;
-padding: 10px 25px;
-border-radius: 5px;
-cursor: pointer;
-transition: background-color 0.3s ease;
+#follow-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #eee;
+    font-size: 16px;
+    cursor: pointer
 }
-.card button:hover {
-background-color: #45a049;
+#follow-btn:hover {
+    background-color: #0eba17;
 }
