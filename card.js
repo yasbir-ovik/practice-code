@@ -11,4 +11,4 @@ followBtn.addEventListener('click', function () {
         followBtn.style.backgroundColor = '#eee';
         followBtn.style.color = "black";
         }
-});
+}); //done
